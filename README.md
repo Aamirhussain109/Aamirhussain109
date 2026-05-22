@@ -1,4 +1,4 @@
-# 👨‍💻 <h1 style="color: blue; text-align: center;">السلام علیکم، میں عامر حسین ہوں!</h1>
+# 👨‍💻 <h1 style="color: blue; text-align: center;"> میں عامر حسین ہوں!</h1>
  میں عامر حسین ہوں!
 
 میں ایک **فرنٹ اینڈ ویب ڈویلپر (Front-End Web Developer)** بن رہا ہوں اور موبائل پر کوڈنگ سیکھ رہا ہوں۔
