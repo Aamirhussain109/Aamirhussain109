@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 السلام علیکم، میں عامر حسین ہوں!
 
-<!--
-**Aamirhussain109/Aamirhussain109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+میں ایک **فرنٹ اینڈ ویب ڈویلپر (Front-End Web Developer)** بن رہا ہوں اور موبائل پر کوڈنگ سیکھ رہا ہوں۔
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 میری مہارتیں (My Skills)
+
+
+| نمبر شمار | مہارت (Skill) | سیکھنے کا مرحلہ |
+|:---:|---|---|
+| 1 | **HTML5** | بنیادی باتیں (Basic) |
+| 2 | **CSS3** | جلد شروع کروں گا |
+| 3 | **JavaScript** | سیکھنے کا ہدف |
+
+---
+
+### 🎯 میرا مقصد (My Goal)
+میں محنت کر کے ویب ڈویلپمنٹ سیکھ رہا ہوں تاکہ آئی ٹی (IT) کے شعبے میں ایک اچھی **نوکری (Job)** حاصل کر سکوں۔
+
+<!-- یہ نوٹ صرف مجھے نظر آئے گا: ہر ہفتے اپنی ترقی یہاں اپڈیٹ کرنی ہے -->
