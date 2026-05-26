@@ -1,4 +1,4 @@
-<h1>السلام علیکم، میں عامر ہوں</h1>
+bubble<h1>السلام علیکم، میں عامر ہوں</h1>
 <p>میں موبائل پر <strong>کوڈ چلانا</strong> سیکھ گیا ہوں۔</p>
 
 <br>
@@ -21,4 +21,21 @@
   <li>کوڈنگ کرنا</li>
   <li>موبائل پر نئے ایپس سیکھنا</li>
   <li>ویب سائٹ ڈیزائن کرنا</li>
-</ul>
+</ul><!DOCTYPE html>
+<html>
+<head>
+    <title>سینٹر اور بارڈر ٹیسٹ</title>
+</head>
+<body style="background-color: lightblue;">
+
+    <!-- یہ ہیڈنگ اسکرین کے درمیان میں آئے گی -->
+    <h1 style="text-align: center; color: darkblue;">یہ ہیڈنگ سینٹر میں ہے</h1>
+
+    <!-- اس پیراگراف کے گرد سرخ رنگ کا بارڈر ہوگا -->
+    <p style="border: 2px solid red; font-size: 18px;">
+        اس ٹیکسٹ کے چاروں طرف سرخ رنگ کا بارڈر لگا ہوا ہے۔
+    </p>
+
+</body>
+</html>
+
